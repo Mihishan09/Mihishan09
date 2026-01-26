@@ -32,16 +32,16 @@ shows up on your GitHub profile.
 `JavaScript` · `TypeScript` · `Java` · `HTML` · `CSS`
 
 **Frontend:**  
-React, CSS, React Native, Next.js
+`React`, `CSS`, `React Native`, `Next.js`
 
 **Backend:**  
-Node.js, Express.js, Spring boot
+`Node.js`, `Express.js`, `Spring boot`
 
 **Databases:**  
-MongoDB / SQL (based on project requirements)
+`MongoDB` / `SQL` (based on project requirements)
 
 **Tools & Platforms:**  
-Git · GitHub · VS Code · Vercel
+`Git` · `GitHub` · `VS Code` · `Vercel`
 
 ---
 
@@ -84,8 +84,8 @@ Here are a few repositories that represent my work and learning journey:
 ## 🤝 Let’s Connect
 
 - 🌐 Portfolio: https://mihishangunasekara.vercel.app/
-- 📫 Email: *available on portfolio/contact links*
-- 💼 Open to collaboration and internships!
+- 📫 Email: *mihishanofficial@gmail.com*
+- 💼 Open to collaboration
 
 ---
 
