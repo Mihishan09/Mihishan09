@@ -32,16 +32,16 @@ shows up on your GitHub profile.
 `JavaScript` · `TypeScript` · `Java` · `HTML` · `CSS`
 
 **Frontend:**  
-React, SCSS, Responsive Design
+React, CSS, React Native, Next.js
 
 **Backend:**  
-Node.js, Express.js
+Node.js, Express.js, Spring boot
 
 **Databases:**  
 MongoDB / SQL (based on project requirements)
 
 **Tools & Platforms:**  
-Git · GitHub · VS Code · Vercel · Netlify
+Git · GitHub · VS Code · Vercel
 
 ---
 
